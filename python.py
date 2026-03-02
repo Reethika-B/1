@@ -1,4 +1,4 @@
 a=3
 b=4
-sum=a+b
-print("SUM:",sum)
+diff=a-b
+print("diff:",diff)
